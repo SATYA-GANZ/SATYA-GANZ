@@ -16,6 +16,6 @@
 
 ## Programming Language
 My Language Project Is Include
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Python
+* Node Js
+* C++
