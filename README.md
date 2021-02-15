@@ -15,3 +15,6 @@
 <a href="https://www.instagram.com/SATYA-GANZ"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 ## Programming Language
+My Language Project Is Include
+*Python
+*Node-Js
