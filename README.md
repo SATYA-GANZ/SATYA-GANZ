@@ -5,8 +5,8 @@
 </p>
 <br>
 <p align="center">
-<a href="https://github.com/SATYA-GANZ"><img title="Github" src="https://img.shields.io/badge/Github-ANXSEC--SYNDICATE-blue?style=for-the-badge&logo=github"></a>
-<a href="https://gitlab.com/XAI666GHOST"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-ANXSEC--SYNDICATE-blue?style=for-the-badge&logo=gitlab"></a>
+<a href="https://github.com/SATYA-GANZ"><img title="Github" src="https://img.shields.io/badge/Github-SATYA--GANZ-blue?style=for-the-badge&logo=github"></a>
+<a href="https://gitlab.com/SATYA-GANZ"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-SATYA--GANZ-blue?style=for-the-badge&logo=gitlab"></a>
 </p>
 
 <p align="center">
