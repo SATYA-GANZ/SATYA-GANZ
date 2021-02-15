@@ -3,7 +3,7 @@
 <p align="center"><a href="https://github.com/SATYA-GANZ"><img src="http://images.rajawalisecteam.tech/RST%20%20OFC%2020210121_162853.jpg" height='195' alt="Satya-Ganz">
 <a href="https://github.com/SATYA-GANZ"><img title="SATYA GITHUB" src="https://github-readme-stats.vercel.app/api?username=Anxsec-Syndicate&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
-
+<br>
 <p align="center">
 <a href="https://github.com/Anxsec-Syndicate"><img title="Github" src="https://img.shields.io/badge/Github-ANXSEC--SYNDICATE-blue?style=for-the-badge&logo=github"></a>
 <a href="https://gitlab.com/XAI666GHOST"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-ANXSEC--SYNDICATE-blue?style=for-the-badge&logo=gitlab"></a>
