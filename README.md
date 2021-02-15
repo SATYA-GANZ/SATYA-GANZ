@@ -19,3 +19,9 @@ My Language Project Is Include
 * Python
 * Node Js
 * C++
+
+#Run My Program
+```
+git clone my project
+cd my project
+```
