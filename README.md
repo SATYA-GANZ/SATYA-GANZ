@@ -16,5 +16,8 @@
 
 ## Programming Language
 My Language Project Is Include
-*Python
-*Node-Js
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
