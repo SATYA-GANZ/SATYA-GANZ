@@ -13,3 +13,5 @@
 <a href="https://fb.com//SATYA-GANZ"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
 <a href="https://m.me/SATYA-GANZ"><img title="Messenger" src="https://img.shields.io/badge/Messenger-red?style=for-the-badge&logo=messenger"></a>
 <a href="https://www.instagram.com/SATYA-GANZ"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+
+## Programming Language
