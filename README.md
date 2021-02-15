@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-<a href="https://fb.com//anxsecsyndicate"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
-<a href="https://m.me/anxsecsyndicate"><img title="Messenger" src="https://img.shields.io/badge/Messenger-red?style=for-the-badge&logo=messenger"></a>
-<a href="https://www.instagram.com/anxsecsyndicate"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://fb.com//SATYA-GANZ"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://m.me/SATYA-GANZ"><img title="Messenger" src="https://img.shields.io/badge/Messenger-red?style=for-the-badge&logo=messenger"></a>
+<a href="https://www.instagram.com/SATYA-GANZ"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
 <a href="https://github.com/Anxsec-Syndicate/anontrack"><img title="Anontrack" src="https://github-readme-stats.vercel.app/api/pin/?username=Anxsec-Syndicate&repo=anontrack&theme=dark"></a>
