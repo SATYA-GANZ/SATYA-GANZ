@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/SATYA-GANZ"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
-<a href="https://github.com/SATYA-GANZ/PentestCool"><img title="PentestCool Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=SATYA-GANZ&repo=anontrack&theme=dark"></a>
+<a href="https://github.com/SATYA-GANZ/PentestingCool"><img title="PentestCool Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=SATYA-GANZ&repo=anontrack&theme=dark"></a>
 <a href="https://github.com/Anxsec-Syndicate/anonwebdav"><img title="Anonwebdav" src="https://github-readme-stats.vercel.app/api/pin/?username=Anxsec-Syndicate&repo=anonwebdav&theme=dark"></a>
 <a href="https://github.com/Anxsec-Syndicate/anonwpmassbrute"><img title="Anonwpmassbrute" src="https://github-readme-stats.vercel.app/api/pin/?username=Anxsec-Syndicate&repo=anonwpmassbrute&theme=dark"></a>
 <a href="https://github.com/Anxsec-Syndicate/anonigmbf"><img title="Anonigmbf" src="https://github-readme-stats.vercel.app/api/pin/?username=Anxsec-Syndicate&repo=anonigmbf&theme=dark"></a>
