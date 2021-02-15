@@ -16,8 +16,6 @@
 
 ## Programming Language
 My Language Project Is Include
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
